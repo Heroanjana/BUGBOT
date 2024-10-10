@@ -1,4 +1,4 @@
-global.namaown = "UDMODZ" // Owner Name
+global.namaown = "🍂🖤𝗞𝗜𝗡𝗚 𝗔𝗡𝗝𝗔𝗡𝗔 𝗕𝗕𝗛 💦🥵🍂" // Owner Name
 global.namabot = "𝗨𝗗𝗕𝗨𝗚𝗕𝗢𝗧" // Bot name
 global.versisc = "1.0" // Vertion
 global.owner = ["94750177369"] // Owners Whatsapp number
